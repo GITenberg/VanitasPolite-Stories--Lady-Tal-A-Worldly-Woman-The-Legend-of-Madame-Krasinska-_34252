@@ -1,0 +1,29 @@
+_repo: VanitasPolite-Stories--Lady-Tal-A-Worldly-Woman-The-Legend-of-Madame-Krasinska-_34252
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Lee, Vernon
+    alias: Paget, Violet
+    birthdate: 1856
+    deathdate: 1935
+    gutenberg_agent_id: '2683'
+    url: http://www.gutenberg.org/2009/agents/2683
+    wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
+description: ''
+gutenberg_issued: '2010-11-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34252'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English fiction'
+- !lcc 'PR'
+tableOfContents: Lady Tal -- A Worldly Woman -- The Legend of Madame Krasinska.
+title: 'Vanitas: Polite Stories'
+url: http://www.gutenberg.org/ebooks/34252
