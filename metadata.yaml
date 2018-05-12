@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2683
     wikipedia: http://en.wikipedia.org/wiki/Vernon_Lee
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/34252#VanitasPolite-Stories--Lady-Tal-A-Worldly-Woman-The-Legend-of-Madame-Krasinska-
 gutenberg_issued: '2010-11-08'
 gutenberg_type: Text
 identifiers:
